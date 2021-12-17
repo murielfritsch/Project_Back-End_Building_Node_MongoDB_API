@@ -1,4 +1,4 @@
-# In order to test the app on your computer:
+# In order to test the app:
 Clone the repo on your computer
 
 
