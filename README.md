@@ -2,7 +2,7 @@
 Clone the repo on your computer
 
 
-# CONNECT THE APP TO A MONGODB DATABASE
+# Connect the App to a MongoDB database
 Search for the .env.example file in /backend
 
 Rename the file to .env
@@ -27,7 +27,7 @@ Save the .env file to use your own credentials to connect to your MongoDB Databa
 
 
 
-# START THE BACKEND API SERVER
+# Start the backend API
 Open one terminal 
 
 Place yourself in the backend directory
@@ -36,10 +36,10 @@ Type node server to start the server
 
 
 
-# START FRONT END SERVER
+# Run node start script 
 Open one terminal 
 
-Place yourself in the frontend directory
+Place yourself in the /frontend directory
 
 Type npm start run to start the server
 
