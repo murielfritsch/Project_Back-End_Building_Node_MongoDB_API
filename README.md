@@ -41,7 +41,7 @@ Open one terminal
 
 Place yourself in the /frontend directory
 
-Type npm start run to start the server
+Type npm start run
 
-visit localhost:4200 to begin testing the app
+visit localhost:4200 in a browser to begin testing the app
 
